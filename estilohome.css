@@ -1,0 +1,23 @@
+.fundo-preto
+{
+	background-color:black;
+}
+
+.texto-branco
+{
+	color:white;
+}
+.fact-exibicao
+{
+	margin: 2px 2px 2px 2px;
+	text-align:justify;
+}
+.fact-exibicao:hover{
+	background-color:#464646;
+	color:#E8E8E8;
+	padding: 2px 15px 2px 15px;
+}
+.author{
+	color:clear-gray;
+	text-align:right;
+}
