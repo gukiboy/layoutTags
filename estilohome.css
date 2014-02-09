@@ -7,15 +7,31 @@
 {
 	color:white;
 }
+
+.texto-vermelho
+{
+	color:red;
+}
+
+.texto-verde
+{
+	color:green;
+}
+
+.texto-cinza
+{
+	color:gray;
+}
+
 .fact-exibicao
 {
 	margin: 2px 2px 2px 2px;
 	text-align:justify;
+	transition: background-color 0.3s;
 }
 .fact-exibicao:hover{
-	background-color:#464646;
-	color:#E8E8E8;
-	padding: 2px 15px 2px 15px;
+	background-color:#6A6A6A;
+	color:#e3e3e3;
 }
 .author{
 	color:clear-gray;
