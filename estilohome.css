@@ -1,3 +1,24 @@
+/*Navigation bar style*/
+
+.nav-title-text
+{
+	font-size:32px;
+}
+
+.nav-button
+{
+	border-left-color:white;
+	border-right-color:white;
+	transition: background-color 0.3s;
+}
+
+.nav-button:hover
+{
+	background-color:#6A6A6A;
+	color:#e3e3e3;
+}
+
+/*Navigation bar style end*/
 .fundo-preto
 {
 	background-color:black;
